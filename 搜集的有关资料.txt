@@ -1,0 +1,17 @@
+1.有关文字资料：
+
+如何系统性地学习NLP 自然语言处理？
+https://www.zhihu.com/question/27529154/answer/1810677707
+https://www.zhihu.com/question/27529154
+
+自学nlp好难啊，有没有大神指导一下？
+https://www.zhihu.com/question/435059024/answer/2693905278
+
+有关github仓库资料
+https://github.com/DengBoCong/nlp-paper
+https://github.com/dalinvip/Awesome-ChatGPT
+
+「自然语言处理（NLP）」入门系列（一）初识NLP
+https://zhuanlan.zhihu.com/p/101562935
+
+2.有关视频资料：
