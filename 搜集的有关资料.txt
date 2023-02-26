@@ -14,4 +14,24 @@ https://github.com/dalinvip/Awesome-ChatGPT
 「自然语言处理（NLP）」入门系列（一）初识NLP
 https://zhuanlan.zhihu.com/p/101562935
 
+中国的AI技术与美国的差距到底有多大？
+https://www.zhihu.com/question/278712249/answer/2848602105
+
+为什么感觉欧美AI比我们强？
+https://www.zhihu.com/question/571807772/answer/2883772848
+
+既然已经看到这里了，那么就买几本书看看吧，为 AI 添砖加瓦打好基础。这里推荐三本，一本是图灵奖三巨头的《深度学习》，第二本是知识图谱领域权威书籍珠峰书《知识图谱：认知智能理论与实战》，第三本是强化学习的经典书籍《强化学习（第二版）》。人工智能三大流派之一的连接主义，深度学习是连接主义的代表，花书《深度学习》是代表性著作。
+
+请推荐一个人工智能学习路线图？
+https://www.zhihu.com/question/327809761/answer/2533269638
+
+《从零开始学习自然语言处理(NLP)》-基础准备(0)
+https://zhuanlan.zhihu.com/p/54731715
+
+http://121.199.45.168/
+
+哪位大侠收NLP徒弟吗？自学NLP需要多长时间？
+https://www.zhihu.com/question/330994295/answer/1083296552
+
 2.有关视频资料：
+https://www.bilibili.com/video/BV17y4y1m737?p=1
