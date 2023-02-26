@@ -5,3 +5,7 @@ https://www.bilibili.com/video/BV1hM4y157xX?p=1
 链接: https://pan.baidu.com/s/1RY3NvNtNZkxMazWE53M0Sg 提取码: s3qs
 
 这算是我看的起步视频了吧，希望能坚持看下去并看完，大体知道NLP应该学什么，按什么顺序去学习。
+
+第1集看完——23-02-26
+
+我现在处于懵逼的状态，不知道先学什么后学什么，不过懵懵懂懂知道，我现在应该先去学李航的统计学习方法。
