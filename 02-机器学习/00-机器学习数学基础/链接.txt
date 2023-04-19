@@ -1,0 +1,9 @@
+数学基础知识：
+http://www.ai-start.com/dl2017/html/math.html
+
+CS229线性代数翻译：
+http://www.ai-start.com/CS229/1.CS229-LinearAlgebra.html
+
+CS229 机器学习课程复习材料-概率论：
+http://www.ai-start.com/CS229/2.CS229-Prob.html
+
