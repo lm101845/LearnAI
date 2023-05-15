@@ -1,6 +1,7 @@
 https://www.bilibili.com/video/BV1Wv411h7kN?p=1
 
-课程时长87小时，共155集。
+课程时长87小时，共155集，课程是2021年的，现在出了2023年的，但是我还是先看这个吧。
+
 
 第一节 Introduction  作业 HW1: Regression
 第二节 Deep Learning  作业 HW2: Classification
@@ -24,3 +25,7 @@ https://www.bilibili.com/video/BV1Wv411h7kN?p=1
 课件和资料Github版：https://github.com/Fafa-DL/Lhy_Machine_Learning
 课件和资料Gitee版：https://gitee.com/zzhzwh/Lhy_Machine_Learning
 CSDN版https://blog.csdn.net/zzh516451964zzh/article/details/123212671
+
+2023年视频：
+https://www.bilibili.com/video/BV1TD4y137mP?p=1
+
